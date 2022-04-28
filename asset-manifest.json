@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.6853b9f4.css",
-    "main.js": "./static/js/main.ba32211d.js",
+    "main.css": "./static/css/main.f739b37a.css",
+    "main.js": "./static/js/main.c773ba6b.js",
     "static/media/long-logo.png": "./static/media/long-logo.8ee6d3be2e832e45d925.png",
     "index.html": "./index.html",
-    "main.6853b9f4.css.map": "./static/css/main.6853b9f4.css.map",
-    "main.ba32211d.js.map": "./static/js/main.ba32211d.js.map"
+    "main.f739b37a.css.map": "./static/css/main.f739b37a.css.map",
+    "main.c773ba6b.js.map": "./static/js/main.c773ba6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6853b9f4.css",
-    "static/js/main.ba32211d.js"
+    "static/css/main.f739b37a.css",
+    "static/js/main.c773ba6b.js"
   ]
 }
